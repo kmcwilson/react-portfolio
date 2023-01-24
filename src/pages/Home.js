@@ -4,7 +4,7 @@ const Home = () => {
     return (
         <div className="container" style={{ minHeight: '60vh' }}>
             <div className="home-info flex-item">
-            <img className="flex-item home-image"src="whistler.jpg" alt="Katie smiling" height="250px" width="200px" style={{float:'left', borderRadius: '50%', margin:'5px'}}></img>
+            <img className="flex-item home-image"src="whistler.jpg" alt="Katie smiling" height="300px" width="300px" style={{float:'left', borderRadius: '50%', margin:'5px'}}></img>
                 <h2>Hey! I'm Katie</h2>
                 <p className="home-description"> I am a full stack web developer and former elementary school teacher with a passion for building creative, attractive and responsive web applications.</p>
                 <a href='Kathleen-Wilson-Resume_2022(10).pdf' download='Kathleen-Wilson-Resume_2022(10).pdf'><button className="card-button">Download Resume</button></a>
