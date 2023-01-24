@@ -2,7 +2,7 @@ const projectList=[
     {
         id:1, 
         title: 'The Tech Talk', 
-        image: 'tech-talk.png',
+        image: '/public/tech-talk.png',
         description:'Full stack application that uses a content management system to run a Tech Blog site following a Model View Controller design.', 
         url:'https://pacific-forest-66625.herokuapp.com/',
         gitHub:'https://github.com/kmcwilson/CMS-blog-site'

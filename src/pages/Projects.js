@@ -8,7 +8,6 @@ const Projects = () => {
     return (
         <div className="container projects-page" style={{display:'flex', justifyContent: 'space-between',
         flexWrap: 'wrap'}}>
-            {/* <div className="flex-item single-project-container"> */}
                 {projectList.map(project =>
                 (<ProjectCard
                     key={project.id}
