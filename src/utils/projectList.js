@@ -21,7 +21,7 @@ const projectList=[
         image: 'note-taker.png',
         description:'Application uses express routing and javascript in order to create a note-taking application for the user. Notes can be added, updated and deleted from the application', 
         url:'https://still-wildwood-29248.herokuapp.com/',
-        gitHub:'https://github.com/kmcwilson/Express-Note-Take'
+        gitHub:'https://github.com/kmcwilson/Express-Note-Taker'
     }, 
     {
         id:4, 
