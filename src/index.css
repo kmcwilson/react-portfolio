@@ -102,6 +102,10 @@ header {
   color: var(--green)
 }
 
+.about-myself{
+  margin-bottom: 30px;
+}
+
 .about-image {
   float: left;
   margin-left: 150px;
@@ -116,6 +120,7 @@ header {
   font-size: larger;
   background: var(--yellow);
   padding: 20px;
+  margin-right: 50px;
   border-radius: 10px;
   border-style: solid;
   border-color: #935c68ff;

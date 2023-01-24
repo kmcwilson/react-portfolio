@@ -3,6 +3,9 @@ import React from 'react';
 const Home = () => {
     return (
         <div className="container" style={{ minHeight: '60vh' }}>
+         <div>
+                <img className="flex-item about-image"src="whistler.jpg" alt="Katie smiling" height="400px" width="400px"></img>
+            </div>   
             <div className="home-info flex-item">
                 <h2>Hey! I'm Katie</h2>
                 <p className="home-description"> I am a full stack web developer and former elementary school teacher with a passion for building creative, attractive and responsive web applications.</p>
