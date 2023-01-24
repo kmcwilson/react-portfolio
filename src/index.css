@@ -89,9 +89,10 @@ header {
 }
 
 .home-info {
-  width: 500px;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
   font-family: 'Playfair', sans-serif;
-  float: right;
   background: var(--yellow);
   padding: 20px;
   border-radius: 10px;
@@ -150,8 +151,6 @@ header {
 
   .about-image {
     padding-bottom: 20px;
-    
-
   }
 
   .home-info {
