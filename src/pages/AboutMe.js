@@ -6,8 +6,10 @@ const AboutMe = () => {
             <div>
                 <img className="flex-item about-image"src="unstoppable.jpg" alt="Katie smiling" height="400px" width="400px"></img>
             </div>
-            <div>
-                <p className="flex-item about-info">Future Full Stack Web Developer leveraging background in Education to provide insight into how users will interact with software programs and websites as well as how these programs will be perceived by the user. Extensive experience in learning systems within the School Board coupled with the knowledge of Full Stack Web Development in order to successfully work within the technical realm of an institution. Effective at combining creativity and problem solving to develop user-friendly applications. Known among peers and colleagues for being a dedicated worker, a quick-learner and for paying attention to detail no matter the complexity of the project. </p>
+            <div className="flex-item about-info">
+                <h1>A brief history of me...</h1>
+                <p >I am a former educator with the Ottawa Carleton District School Board. I have taught for seven years and although I loved working with kids, in time I realized that working as a public school teacher was not my passion. </p>
+                <p >While teaching math I was introduced to coding and was very intrigued. I enjoy working with technology and learning new skills. I am now a full stack developer and am excited to work in this exciting and challenging field! </p>
             </div>
         </div>
     )
