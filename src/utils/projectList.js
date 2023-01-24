@@ -13,7 +13,7 @@ const projectList=[
         image: 'travel-buddy.png',
         description:'Full stack application renders activities in specific cities according to user input and allows users to add additional activities to specified cities.', 
         url:'https://intense-lake-37290.herokuapp.com/login',
-        gitHub:'https://github.com/Aesthetic-Justice/Project'
+        gitHub:'https://github.com/Aesthetic-Justice/Project2'
     }, 
     {
         id:3, 
