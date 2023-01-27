@@ -4,7 +4,7 @@ const AboutMe = () => {
     return (
         <div style={{ minHeight: '60vh', textAlign: 'center' }} className="container about-myself">
             <div>
-                <img className="flex-item about-image"src="unstoppable.jpg" alt="Katie smiling" height="400px" width="400px"></img>
+                <img className="flex-item about-image"src="unstoppable.jpg" alt="Katie smiling with unstoppable sign behind"></img>
             </div>
             <div className="flex-item about-info">
                 <h1>A brief history of me...</h1>

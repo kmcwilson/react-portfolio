@@ -12,7 +12,7 @@ function App() {
   return (
   <div className="page-background">
  <Header setCurrentPage= {setCurrentPage} currentPage={currentPage}/>
- <PageContent currentPage={currentPage}/>
+ <PageContent setCurrentPage= {setCurrentPage} currentPage={currentPage}/>
  <Skills/>
 <Footer/>
  </div>

@@ -5,10 +5,10 @@ import Contact from '../pages/Contact';
 import Projects from '../pages/Projects';
 
 
-export default function PageContent ({currentPage}) {
+export default function PageContent ({setCurrentPage, currentPage}) {
     function renderPage () {
     switch (currentPage){
-        case "home": return <Home/>
+        case "home": return <Home setCurrentPage={setCurrentPage}/>
         case "about": return <AboutMe/>
         case "contact": return <Contact/>
         case "projects": return <Projects/>
