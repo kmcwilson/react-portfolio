@@ -18,6 +18,7 @@ const Contact = () => {
                 </div>
                 <button class="form-button" type="submit">Send Message</button>
             </form>
+            <p>Note that this contact form is not yet functional, my email is located in the header at the top of the page</p>
         </div>
     )
 }
