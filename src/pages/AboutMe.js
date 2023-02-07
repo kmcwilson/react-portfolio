@@ -8,8 +8,7 @@ const AboutMe = () => {
             </div>
             <div className="flex-item about-info">
                 <h1>A brief history of me...</h1>
-                <p >I am a former educator with the Ottawa Carleton District School Board. I have taught for seven years and although I loved working with kids, in time I realized that working as a public school teacher was not my passion. </p>
-                <p >While teaching math I was introduced to coding and was very intrigued. I enjoy working with technology and learning new skills. I am now a full stack developer and am excited to work in this exciting and challenging field! </p>
+                <p >I was a teacher at the Ottawa Carleton District School Board for seven years. Although I cherished working with children, I eventually came to realize that my passion lies elsewhere. During my time teaching math, I was introduced to coding and was immediately drawn to it. I now work as a full-stack developer, utilizing my love for technology and desire to continuously learn. I am thrilled to be in this exciting and challenging field. </p>
             </div>
         </div>
     )
