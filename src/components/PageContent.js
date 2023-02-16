@@ -1,7 +1,7 @@
 import React from 'react';
 import Home from '../pages/Home';
 import AboutMe from '../pages/AboutMe';
-import Contact from '../pages/Contact';
+// import Contact from '../pages/Contact';
 import Projects from '../pages/Projects';
 
 
@@ -10,7 +10,7 @@ export default function PageContent ({setCurrentPage, currentPage}) {
     switch (currentPage){
         case "home": return <Home setCurrentPage={setCurrentPage}/>
         case "about": return <AboutMe/>
-        case "contact": return <Contact/>
+        // case "contact": return <Contact/>
         case "projects": return <Projects/>
         default: return <Home/>
     }
