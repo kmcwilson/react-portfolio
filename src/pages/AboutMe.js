@@ -2,7 +2,7 @@ import React from 'react';
 
 const AboutMe = () => {
     return (
-        <div style={{ minHeight: '60vh', textAlign: 'center' }} className="container about-myself">
+        <div style={{ minHeight: '80vh', textAlign: 'center' }} className="container about-myself">
             <div>
                 <img className="flex-item about-image"src="unstoppable.jpg" alt="Katie smiling with unstoppable sign behind"></img>
             </div>

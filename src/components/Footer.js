@@ -7,6 +7,7 @@ const styles = {
     left: '0px',
     width: '100%',
     height: '150px',
+    margin: 'auto',
     backgroundColor: 'rgb(236, 240, 225)',
     color: 'rgb(25, 79, 64)',
     textAlign: 'center',
